@@ -27,6 +27,9 @@ body a:hover {
 body a:focus, a:hover {
     text-decoration: none;
 }
+.linespace{
+    margin: 1em;
+}
 input[type="button"],input[type="submit"] {
     transition:0.5s all;
     -webkit-transition:0.5s all;
@@ -1033,6 +1036,7 @@ ul.social li a.youtube:hover {
     .newsletter .submit {
         right: -20px;
     }
+
 }
 
 @media screen and (max-width:736px) {
