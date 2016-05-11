@@ -307,22 +307,22 @@
     	<!-- Contact-Starts-Here -->
     	<div class="contact slideanim" id="contact">
     		<div class="container">
-        		<h1>Contact</h1>
-        		<form class="contact_form">
+        		<h1>Contacto</h1>
+        		<form class="contact_form" method="post" action="mail.php">
 
         			<div class="message">
 						<div class="col-md-6 col-sm-6 grid_6 c1">
-							<input type="text" class="text" value="Name" placeholder="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}">
-							<input type="text" class="text" value="Email" placeholder="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}">
+							<input type="text" class="text" name="nombre" value="Nombre" placeholder="Nombre" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Nombre';}">
+							<input type="text" class="text" name="email" value="Email" placeholder="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}">
 						</div>
 
 						<div class="col-md-6 col-sm-6 grid_6 c1">
-							<textarea placeholder="Message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}">Message</textarea>
+							<textarea placeholder="Mensaje" name="msj" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Mensaje';}">Message</textarea>
 						</div>
 			            <div class="clearfix"> </div>
 		        	</div>
 
-					<input type="submit" class="more_btn" value="Send Message">
+					<input type="submit" class="more_btn" value="Enviar">
 			 	</form>
 		 	</div>
     	</div>
