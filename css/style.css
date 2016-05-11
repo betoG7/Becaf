@@ -867,6 +867,7 @@ ul.social li a.youtube:hover {
         width: 75%;
     }
     .rslides .caption h3 {
+        margin: 200px 0 0 0;
         font-size: 50px;
     }
     .area-info h4 {
@@ -925,6 +926,7 @@ ul.social li a.youtube:hover {
         width: 85%;
     }
     .rslides .caption h3 {
+        margin: 200px 0 0 0;
         font-size: 45px;
     }
     .area-info h4 {
@@ -985,6 +987,7 @@ ul.social li a.youtube:hover {
         font-size: 16px;
     }
     .rslides .caption h3 {
+        margin: 200px 0 0 0;
         font-size: 40px;
     }
     .offer p {
@@ -1040,6 +1043,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:736px) {
+  .rslides .caption h3 {
+      margin: 200px 0 0 0;
+      font-size: 35px;
+  }
     div#bs-example-navbar-collapse-1 {
         float: right;
         width: 50%;
@@ -1299,7 +1306,7 @@ ul.social li a.youtube:hover {
 
 @media screen and (max-width:480px) {
     .rslides .caption h3 {
-        margin: 125px 0 0 0;
+        margin: 200px 0 0 0;
         font-size: 25px;
     }
     .callbacks_nav {
@@ -1342,7 +1349,7 @@ ul.social li a.youtube:hover {
         margin-top: -15px;
     }
     .rslides .caption h3 {
-        margin-top: 135px;
+        margin-top: 200px;
     }
     .air, .sea, .land {
         width: 100%;
@@ -1429,6 +1436,9 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:384px) {
+  .rslides .caption h3 {
+      margin-top: 200px;
+  }
     .area-info h4 {
         width: 70%;
     }
@@ -1454,6 +1464,7 @@ ul.social li a.youtube:hover {
 
 @media screen and (max-width:360px) {
     h3 {
+      margin-top: 200px;
         font-size: 30px;
     }
     .offer p {
@@ -1472,7 +1483,7 @@ ul.social li a.youtube:hover {
 
 @media screen and (max-width:320px) {
     .rslides .caption h3 {
-        margin-top: 160px;
+        margin-top: 200px;
         font-size: 20px;
     }
     .rslides .caption p {
