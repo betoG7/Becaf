@@ -250,9 +250,9 @@ ul.callbacks_tabs.callbacks1_tabs {
 }
 
 .area {
-    background: url("../images/world.jpg");
+    background-color: rgba(238, 238, 238, 0.38);
     background-repeat: no-repeat;
-    padding: 50px 0;
+    padding-bottom: 50px;
     background-size: cover;
 }
 
