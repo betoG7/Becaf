@@ -230,7 +230,7 @@ a.morebtn {
     text-decoration: none;
     height: 61px;
     width: 38px;
-    background: transparent url("../images/themes.png") no-repeat left top;
+    background: transparent url("../images/themes.gif") no-repeat left top;
     margin-top: -45px;
     }
 .callbacks_nav.next {
@@ -350,6 +350,7 @@ h2 {
 
 .cover {
     background-color: rgba(238, 238, 238, 0.38);
+    padding-bottom: 50px;
 }
 .cover p {
     font-size: 20px;
