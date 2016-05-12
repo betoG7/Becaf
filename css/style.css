@@ -255,9 +255,7 @@ ul.callbacks_tabs.callbacks1_tabs {
     padding: 50px 0;
     background-size: cover;
 }
-.arriba {
-    padding-top: 50px;
-  }
+
 h1 {
     text-align: center;
     color: #FFF;
@@ -266,8 +264,9 @@ h1 {
     margin-bottom: 50px;
 }
 h2 {
+    padding-top: 50px;
     text-align: center;
-    color: #000;
+    color: #c3292b;
     font-size: 35px;
     font-weight: 600;
     margin-bottom: 50px;
@@ -298,7 +297,7 @@ h2 {
     font-weight: 700;
     width: 70%;
     padding: 20px 0;
-    color: #009688;
+    color: #914546;
     border-bottom: 3px solid #395B74;
 }
 .area-info p {
@@ -336,7 +335,7 @@ h2 {
 .offer-info h4 {
     font-size: 25px;
     font-weight: 700;
-    color: #009688;
+    color: #914546;
     padding-bottom: 30px;
 }
 .offer-info p {
@@ -514,8 +513,7 @@ ul.flex-direction-nav {
 .contact {
     padding-top: 50px;
     padding-bottom: 50px;
-
-      background: url("../images/world.jpg");
+    background: url("../images/world.jpg");
 }
 .contact h3 {
     padding-bottom: 50px;
