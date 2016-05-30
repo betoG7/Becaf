@@ -87,6 +87,7 @@ a:focus, a:hover {
 }
 .navbar-nav {
     width: 100%;
+    background-color: rgba(0, 0, 0, .5);
 }
 .navbar-nav>li {
     width: 14.28%;
@@ -1530,4 +1531,34 @@ ul.social li a.youtube:hover {
     }
 }
 
+
+.details{
+    border-bottom: 1px solid #cdcdcd;
+    margin-bottom: 22px;
+    color: #444 
+}
+.details-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.details-list>li, .details-list>li>a, .details-list>div {
+    border-bottom: 1px dotted #DFDFDF;
+    margin-left: 20px;
+    color: #666;
+    font: 400 12px/30px "Montserrat", sans-serif
+}
+.details-list strong {
+    display: inline-block;
+    color: #696969;
+    font-weight: 600;
+    min-width: 100px
+}
+.details span{
+    border-bottom: 1px solid #747474;
+    display: inline-block;
+    margin: 0 0 -1px 0;
+    font: 400 16px/36px "Montserrat", sans-serif;
+    padding: 0 5px 0 0  
+}
 /*--- //Responsive Code ---*/
