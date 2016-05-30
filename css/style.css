@@ -82,13 +82,20 @@ a:focus, a:hover {
     margin-bottom: 0;
     position: absolute;
     z-index: 99999;
-    width: 85%;
+    width: 100%;
     text-align: center;
 }
 .navbar-nav {
+     position: absolute;
+    z-index: 3500;
     width: 100%;
-    background-color: rgba(0, 0, 0, .5);
+    height: 60px;
+    background-color: rgba(85,85,89,.5);
+    -webkit-transition: background-color .5s;
+    -moz-transition: background-color .5s;
+    -o-transition: background-color .5s;
 }
+
 .navbar-nav>li {
     width: 14.28%;
 }
@@ -1560,5 +1567,8 @@ ul.social li a.youtube:hover {
     margin: 0 0 -1px 0;
     font: 400 16px/36px "Montserrat", sans-serif;
     padding: 0 5px 0 0  
+}
+header {
+    
 }
 /*--- //Responsive Code ---*/
