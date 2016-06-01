@@ -595,7 +595,7 @@ form.contact_form {
 
 /*-- Footer-Starts-Here --*/
 .footer {
-    background: #999999;
+    background: #cc3333;
 }
 .social {
     padding: 30px 0;
@@ -720,7 +720,7 @@ ul.social li a.youtube:hover {
 .copyright {
     text-align: center;
     padding: 30px 0;
-    border-top: 3px solid #cc3333;
+    border-top: 3px solid #999999;
 }
 .copyright p {
     color: #FFF;
@@ -1542,7 +1542,7 @@ ul.social li a.youtube:hover {
 .details{
     border-bottom: 1px solid #cdcdcd;
     margin-bottom: 22px;
-    color: #444 
+    color: #444
 }
 .details-list {
     margin: 0;
@@ -1566,9 +1566,9 @@ ul.social li a.youtube:hover {
     display: inline-block;
     margin: 0 0 -1px 0;
     font: 400 16px/36px "Montserrat", sans-serif;
-    padding: 0 5px 0 0  
+    padding: 0 5px 0 0
 }
 header {
-    
+
 }
 /*--- //Responsive Code ---*/
