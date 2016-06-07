@@ -90,6 +90,7 @@ a:focus, a:hover {
     z-index: 3500;
     width: 100%;
     height: 60px;
+    background-color: rgba(85,85,89,.5);
     -webkit-transition: background-color .5s;
     -moz-transition: background-color .5s;
     -o-transition: background-color .5s;
@@ -602,6 +603,7 @@ form.contact_form {
 }
 .footer-info {
     margin-top: 50px;
+    margin-left: 25%;
 }
 .footer-info h4 {
     color: #EEE;
@@ -787,7 +789,7 @@ ul.social li a.youtube:hover {
 
 @media screen and (max-width:1920px) {
     .navbar {
-        width: 70%;
+        width: 79.95%;
     }
     .navbar-nav>li {
         width: 10.5%;
@@ -1031,9 +1033,6 @@ ul.social li a.youtube:hover {
     .newsletter .submit {
         right: -15px;
     }
-    .footer-info {
-        margin-left: 20%;
-    }
 }
 
 @media screen and (max-width:768px) {
@@ -1060,12 +1059,13 @@ ul.social li a.youtube:hover {
     .newsletter .submit {
         right: -20px;
     }
+
 }
 
 @media screen and (max-width:736px) {
   .rslides .caption h3 {
       margin: 200px 0 0 0;
-      font-size: 45px;
+      font-size: 35px;
   }
     div#bs-example-navbar-collapse-1 {
         float: right;
@@ -1359,9 +1359,6 @@ ul.social li a.youtube:hover {
     .newsletter .submit {
         right: 0px;
     }
-    .footer-info {
-        margin-left: 0%;
-    }
 }
 
 @media screen and (max-width:414px) {
@@ -1372,8 +1369,7 @@ ul.social li a.youtube:hover {
         margin-top: -15px;
     }
     .rslides .caption h3 {
-        margin-top: 150px;
-        font-size: 28px;
+        margin-top: 200px;
     }
     .air, .sea, .land {
         width: 100%;
@@ -1457,9 +1453,6 @@ ul.social li a.youtube:hover {
     .newsletter .submit {
         right: -15px;
     }
-    .footer-info {
-        margin-left: 0%;
-    }
 }
 
 @media screen and (max-width:384px) {
@@ -1475,9 +1468,6 @@ ul.social li a.youtube:hover {
     .footer-info p {
         line-height: 30px;
     }
-    .footer-info {
-        margin-left: 0%;
-    }
 }
 
 @media screen and (max-width:375px) {
@@ -1489,10 +1479,6 @@ ul.social li a.youtube:hover {
     }
     .footer-info p {
         line-height: 23px;
-    }
-    .footer-info {
-        margin-left: 0%;
-        font-size: 10px;
     }
 }
 
@@ -1512,10 +1498,6 @@ ul.social li a.youtube:hover {
     }
     .footer-info p {
         line-height: 24px;
-    }
-    .footer-info {
-        margin-left: 0%;
-        font-size: 10px;
     }
 }
 
@@ -1553,9 +1535,6 @@ ul.social li a.youtube:hover {
     .newsletter .email {
         font-size: 11px;
         padding: 5px 25px 5px 2px;
-    }
-    .footer-info {
-        margin-left: 0%;
     }
 }
 
