@@ -78,12 +78,12 @@ a:focus, a:hover {
     border-color: transparent;
 }
 .navbar {
-    border-radius: 0;
-    margin-bottom: 0;
-    position: absolute;
-    z-index: 99999;
-    width: 100%;
-    text-align: center;
+  border-radius: 0;
+  margin-bottom: 0;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  z-index: 99999;
 }
 .navbar-nav {
      position: relative;
@@ -92,6 +92,11 @@ a:focus, a:hover {
     -webkit-transition: background-color .5s;
     -moz-transition: background-color .5s;
     -o-transition: background-color .5s;
+    border-radius: 0;
+    margin-bottom: 0;
+    position: absolute;
+    width: 100%;
+    text-align: center;
 }
 
 .navbar-nav>li {
