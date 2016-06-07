@@ -786,6 +786,10 @@ ul.social li a.youtube:hover {
 /*--- Responsive Code ---*/
 
 @media screen and (max-width:1920px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .navbar {
         width: 70%;
     }
@@ -795,6 +799,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:1680px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .navbar {
         width: 84%;
     }
@@ -804,6 +812,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:1600px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .navbar {
         width: 86%;
     }
@@ -813,6 +825,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:1440px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .navbar {
         width: 90%;
     }
@@ -822,6 +838,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:1366px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .navbar {
         width: 84.5%;
     }
@@ -831,12 +851,20 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:1280px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .navbar {
         width: 89%;
     }
 }
 
 @media screen and (max-width:1080px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .navbar {
         width: 89%;
     }
@@ -872,6 +900,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:1024px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .navbar {
         width: 91%;
     }
@@ -881,6 +913,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:966px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .navbar {
         width: 75%;
     }
@@ -940,6 +976,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:853px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .navbar {
         width: 85%;
     }
@@ -998,6 +1038,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:800px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .navbar {
         width: 91%;
     }
@@ -1037,6 +1081,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:768px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .navbar {
         width: 95%;
     }
@@ -1063,6 +1111,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:736px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
   .rslides .caption h3 {
       margin: 200px 0 0 0;
       font-size: 45px;
@@ -1147,6 +1199,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:667px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .rslides .caption h3 {
         font-size: 35px;
     }
@@ -1192,6 +1248,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:640px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .area-info h4 {
         font-size: 16px;
     }
@@ -1218,6 +1278,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:603px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .rslides .caption h3 {
         font-size: 30px;
     }
@@ -1262,6 +1326,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:568px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .offer p {
         width: 65%;
     }
@@ -1316,15 +1384,27 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:533px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .newsletter .email {
         width: 150%;
     }
     .newsletter .submit {
         right: -43px;
     }
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
 }
 
 @media screen and (max-width:480px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .rslides .caption h3 {
         margin: 200px 0 0 0;
         font-size: 25px;
@@ -1365,6 +1445,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:414px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     div#bs-example-navbar-collapse-1 {
         width: 100%;
     }
@@ -1463,6 +1547,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:384px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
   .rslides .caption h3 {
       margin-top: 200px;
   }
@@ -1481,6 +1569,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:375px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .rslides .caption h3 {
         margin-top: 200px;
     }
@@ -1497,6 +1589,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:360px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     h3 {
       margin-top: 200px;
         font-size: 30px;
@@ -1520,6 +1616,10 @@ ul.social li a.youtube:hover {
 }
 
 @media screen and (max-width:320px) {
+    .imagenbien{
+        width: 100%;
+        height: 100%
+    }
     .rslides .caption h3 {
         margin-top: 200px;
         font-size: 20px;
