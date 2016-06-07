@@ -86,7 +86,7 @@ a:focus, a:hover {
   z-index: 99999;
 }
 .navbar-nav {
-     position: relative;
+    position: relative;
     z-index: 3500;
     width: 100%;
     -webkit-transition: background-color .5s;
@@ -94,7 +94,7 @@ a:focus, a:hover {
     -o-transition: background-color .5s;
     border-radius: 0;
     margin-bottom: 0;
-    position: absolute;
+    position: relative;
     width: 100%;
     text-align: center;
 }
