@@ -85,6 +85,12 @@ a:focus, a:hover {
   text-align: center;
   z-index: 99999;
 }
+
+.navbar2 {
+  position: absolute;
+}
+
+
 .navbar-nav {
     position: relative;
     z-index: 3500;
